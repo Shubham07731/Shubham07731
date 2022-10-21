@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 💬 Ask me about **MERN, Node JS, MongoDB, Dynamo DB, AWS**
+- 💬 Ask me about **MERN, Node JS, MongoDB, Dynamo DB, Java,AWS**
 
 - ⚡ Fun fact **I think I am Funny**
 
